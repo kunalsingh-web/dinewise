@@ -1,0 +1,1 @@
+DineWise Frontend - minimal Vite + React + Tailwind scaffold. Replace src/App.jsx with the full UI code.
